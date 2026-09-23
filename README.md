@@ -1,8 +1,6 @@
 <h1 align="center">⚽ World Cup 2026 Analytics Dashboard</h1>
 <h3 align="center">An interactive football analytics project built with Power BI</h3>
-<p align="center">
-  <img src="./images/overview.png" width="95%" alt="World Cup 2026 Power BI Dashboard Overview" />
-</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-05122A?style=flat&logo=powerbi&logoColor=F2C811" alt="Power BI" />
   <img src="https://img.shields.io/badge/DAX-05122A?style=flat&logoColor=white" alt="DAX" />
