@@ -23,7 +23,7 @@ The report combines data modelling, Power Query, DAX and visual storytelling to 
 🔍 Dashboard pages
 Overview
 Tournament KPIs, host-city map, top scorers, team performance, goals by stage and goals by confederation.
-
+<span>
 ✨ Main features
 Five interactive report pages with consistent visual navigation
 Dynamic filters for stages, teams, players, confederations and venues
