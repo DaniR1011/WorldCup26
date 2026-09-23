@@ -81,12 +81,6 @@ Download the .pbix file and open it with Power BI Desktop to explore the full in
 world-cup-2026-power-bi-dashboard/
 ├── WC.pbix
 ├── README.md
-└── images/
-    ├── overview.png
-    ├── matches.png
-    ├── teams.png
-    ├── players.png
-    └── venues.png
 </pre>
 
 <br>
