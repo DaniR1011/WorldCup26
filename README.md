@@ -23,29 +23,7 @@ The report combines data modelling, Power Query, DAX and visual storytelling to 
 🔍 Dashboard pages
 Overview
 Tournament KPIs, host-city map, top scorers, team performance, goals by stage and goals by confederation.
-<p align="center">
-  <img src="./images/overview.png" width="90%" alt="Tournament Overview" />
-</p>
-Matches
-Detailed match results, weekly scoring efficiency and goal distribution by match period.
-<p align="center">
-  <img src="./images/matches.png" width="90%" alt="Match Analysis" />
-</p>
-Teams
-Team standings, expected goals, possession, win rate and shooting performance.
-<p align="center">
-  <img src="./images/teams.png" width="90%" alt="Team Analysis" />
-</p>
-Players
-Player leaderboard, dynamic player spotlight and impact analysis based on minutes and goal contributions per 90.
-<p align="center">
-  <img src="./images/players.png" width="90%" alt="Player Analysis" />
-</p>
-Venues
-Venue capacity, matches, goals, host-country distribution and tournament geography.
-<p align="center">
-  <img src="./images/venues.png" width="90%" alt="Venue Analysis" />
-</p>
+
 ✨ Main features
 Five interactive report pages with consistent visual navigation
 Dynamic filters for stages, teams, players, confederations and venues
