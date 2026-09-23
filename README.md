@@ -1,4 +1,4 @@
-<h1 align="center">âš½ World Cup 2026 Analytics Dashboard</h1>
+<h1 align="center">⚽ World Cup 2026 Analytics Dashboard</h1>
 
 <h3 align="center">An interactive football analytics project built with Power BI</h3>
 
@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/SVG-05122A?style=flat&logo=svg&logoColor=FFB13B" alt="SVG" />
 </p>
 
-ðŸ“Š About the project
+📊 About the project
 
 This project is an interactive Power BI dashboard designed to explore a simulated World Cup 2026 tournament through match, team, player and venue analytics.
 
@@ -18,7 +18,7 @@ The report combines data modelling, Power Query, DAX and visual storytelling to 
 
 Disclaimer: This is an independent portfolio project created with simulated data. It is not affiliated with or endorsed by FIFA.
 
-ðŸ† Tournament at a glance
+🏆 Tournament at a glance
 
 <p align="center">
   <img src="https://img.shields.io/badge/Matches-104-179CFF?style=for-the-badge" alt="104 Matches" />
@@ -28,7 +28,7 @@ Disclaimer: This is an independent portfolio project created with simulated data
   <img src="https://img.shields.io/badge/Goals-308-F52991?style=for-the-badge" alt="308 Goals" />
 </p>
 
-ðŸ” Dashboard pages
+🔍 Dashboard pages
 
 Overview
 
@@ -36,7 +36,7 @@ Tournament KPIs, host-city map, top scorers, team performance, goals by stage an
 
 <br>
 
-âœ¨ Main features
+✨ Main features
 
 Five interactive report pages with consistent visual navigation
 
@@ -54,18 +54,18 @@ Dynamic tooltips and player spotlight details
 
 Dark visual identity inspired by the World Cup 2026
 
-ðŸ›  Â Tech stack
+🛠  Tech stack
 
-![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=powerbi&logoColor=F2C811)&nbsp;
-![DAX](https://img.shields.io/badge/-DAX-05122A?style=flat)&nbsp;
-![Power Query](https://img.shields.io/badge/-Power%20Query-05122A?style=flat&logo=microsoft&logoColor=00B294)&nbsp;
-![Data Modelling](https://img.shields.io/badge/-Data%20Modelling-05122A?style=flat&logo=databricks&logoColor=FF3621)&nbsp;
-![Azure Maps](https://img.shields.io/badge/-Azure%20Maps-05122A?style=flat&logo=microsoftazure&logoColor=0089D6)&nbsp;
-![SVG](https://img.shields.io/badge/-SVG-05122A?style=flat&logo=svg&logoColor=FFB13B)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
-ðŸ“¥ Explore the report
+📥 Explore the report
 
 <p align="center">
   <a href="./WC.pbix">
@@ -75,18 +75,18 @@ Dark visual identity inspired by the World Cup 2026
 
 Download the .pbix file and open it with Power BI Desktop to explore the full interactive experience.
 
-ðŸ“ Repository structure
+📁 Repository structure
 
 <pre>
 WorldCup26/
-â”œâ”€â”€ WC.pbix
-â””â”€â”€ README.md
+├── WC.pbix
+└── README.md
 </pre>
 
 <br>
 
 <div align="center">
-  <h2>ðŸ¤ Connect with me</h2>
+  <h2>🤝 Connect with me</h2>
 
   <a href="https://www.linkedin.com/in/daniel-recio-alvaro/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Daniel Recio on LinkedIn" height="38" width="48" />
