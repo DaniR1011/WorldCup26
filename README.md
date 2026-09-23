@@ -54,6 +54,7 @@ Dynamic tooltips and player spotlight details
 
 Dark visual identity inspired by the World Cup 2026
 
+<br>
 
 📥 Explore the report
 
