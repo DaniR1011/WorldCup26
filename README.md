@@ -88,7 +88,7 @@ WorldCup26/
 <div align="center">
   <h2>🤝 Connect with me</h2>
 
-  <a href="https://www.linkedin.com/in/daniel-recio-alvaro/">
+  <a href="https://www.linkedin.com/in/daniel-recio-alvaro/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Daniel Recio on LinkedIn" height="38" width="48" />
   </a>
 
