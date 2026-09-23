@@ -78,7 +78,7 @@ Download the .pbix file and open it with Power BI Desktop to explore the full in
 📁 Repository structure
 
 <pre>
-world-cup-2026-power-bi-dashboard/
+WorldCup26/
 ├── WC.pbix
 ├── README.md
 </pre>
